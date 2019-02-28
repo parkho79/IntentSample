@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">IntentSample</string>
+
+    <string name="callee_activity">This is a second activity</string>
+    <string name="caller_activity">This is a first activity</string>
+
+    <string name="explicit_intent">Explicit intent</string>
+
+    <string name="implicit_intent">Implicit intent</string>
+
+</resources>
