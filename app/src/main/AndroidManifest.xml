@@ -17,6 +17,15 @@
 
         <activity android:name=".SecondActivity"/>
 
+        <activity android:name=".ThirdActivity">
+            <intent-filter>
+                <action android:name="com.parkho.action.IMAGE_VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.EDIT" />
+            </intent-filter>
+        </activity>
+
     </application>
 
 </manifest>

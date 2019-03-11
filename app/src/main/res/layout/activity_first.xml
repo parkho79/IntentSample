@@ -30,13 +30,23 @@
         app:layout_constraintTop_toBottomOf="@id/tv_description" />
 
     <Button
-        android:id="@+id/btn_implicit"
+        android:id="@+id/btn_implicit_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="50.00dp"
-        android:text="@string/implicit_intent"
+        android:text="@string/implicit_intent_1"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@id/btn_explicit" />
+
+    <Button
+        android:id="@+id/btn_implicit_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50.00dp"
+        android:text="@string/implicit_intent_2"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_implicit_1" />
 
 </android.support.constraint.ConstraintLayout>

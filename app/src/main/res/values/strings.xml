@@ -2,11 +2,14 @@
 
     <string name="app_name">IntentSample</string>
 
-    <string name="callee_activity">This is a second activity</string>
     <string name="caller_activity">This is a first activity</string>
+    <string name="callee_activity_second">This is a second activity</string>
+    <string name="callee_activity_third">This is a third activity</string>
 
     <string name="explicit_intent">Explicit intent</string>
 
-    <string name="implicit_intent">Implicit intent</string>
+    <string name="implicit_intent_1">Implicit intent 1</string>
+
+    <string name="implicit_intent_2">Implicit intent 2</string>
 
 </resources>

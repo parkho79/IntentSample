@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="50.00dp"
         android:gravity="center"
-        android:text="@string/callee_activity"
+        android:text="@string/callee_activity_second"
         android:textSize="18.00sp"
         android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="parent"
